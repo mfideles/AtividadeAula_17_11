@@ -1,0 +1,56 @@
+*{
+ margin: 0;
+
+}
+
+
+body
+{
+    background-color: gray;
+}
+
+
+#topo_esquerda
+{
+    border: black 1px solid;
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    position: fixed ;
+}
+
+
+#topo_direita
+{
+    border: black 1px solid;
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    float: right;
+}
+
+
+
+#down_esquerda
+{
+    border: black 1px solid;
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    margin-top: 35%;
+    float: left;   
+    display: flex;
+}
+
+
+#down_direita
+{
+    border: black 1px solid;
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    margin-top: 35%;
+    display: inline-block;
+    float: right;
+}
+

@@ -1,0 +1,40 @@
+.bloco
+{
+    height: 190px;
+    width: 190px;
+    background-color: black;
+    margin: 2px;
+}
+
+
+.etres
+{
+    display: flex;
+}
+
+
+.edois
+{
+    display: flex;
+}
+
+
+.meio
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.ddois
+{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+
+.dtres
+{
+    display: flex;
+    flex-direction: row-reverse;
+}

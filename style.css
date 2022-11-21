@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+ }
+
+body 
+{
+    background-color: gray;
+}
+
+#camada1 
+{
+    border: blue 1px solid;
+    height: 620px;
+    width: 620px;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: blue;
+}
+
+#camada2
+{
+    border: red 1px solid;
+    height: 480px;
+    width: 480px;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: red;  
+}
+
+
+#camada3
+{
+    border: black 1px solid;
+    height: 340px;
+    width: 340px;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: black;
+}
+
+
+#camada4
+{
+    border: green 1px solid;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: green;
+}
+
+#camada5
+{
+    border: yellow 1px solid;
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: yellow;
+}
